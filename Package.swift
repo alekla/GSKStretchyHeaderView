@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "GSKStretchyHeaderView",
     platforms: [
-        .iOS(.v7)
+        .iOS(.v12)
     ],
     products: [
         .library(
